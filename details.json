@@ -16,11 +16,6 @@
                 "link": "https://www.linkedin.com/in/yasinrezaei/"
             },
             {
-                "icon": "https://icons-for-free.com/iconfiles/png/512/youtube+icon-1320194863618940222.png",
-                "name": "Youtube",
-                "link": "https://youtube.com/TheAliBigdeli"
-            },
-            {
                 "icon": "https://icons-for-free.com/iconfiles/png/512/instagram+instagram+new+design+logo+social+media+icon-1320184016084463641.png",
                 "name": "Instagram",
                 "link": "https://instagram.com/yasinrzi"
@@ -49,9 +44,6 @@
         ],
         "Skills": [
             {
-                "Name": "Self Study"
-            },
-            {
                 "Name": "Team Worker"
             },
             {
@@ -59,16 +51,13 @@
             },
             {
                 "Name": "Fast Learner"
-            },
-            {
-                "Name": "Creative"
             }
         ],
         "Educations": [
             {
                 "from": 2018,
                 "to": "2023",
-                "grade": "bachelor",
+                "grade": "Bachelor",
                 "in": "Computer Engineering",
                 "institute": "Shiraz University",
                 "descriptions": ""
